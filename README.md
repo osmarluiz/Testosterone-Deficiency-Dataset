@@ -19,16 +19,10 @@ Target:
 Our thanks to UroS (Research group in Urology and Populational Subgroups), from Medical School, Universidade Estadual de Feira de Santana.
 
 @article{novaes2021prediction,
-
   title={Prediction Of Secondary Testosterone Deficiency Using Machine Learning: Comparative Analysis Of Ensemble And Base Classifiers, Probability Calibration, And Sampling Strategies In A Slightly Imbalanced Dataset},
-  
   author={Novaes, Monique Tonani and de Carvalho, Osmar Luiz Ferreira and Ferreira, Pedro Henrique Guimar{\~a}es and Tiraboschi, Taciana Leonel Nunes and Silva, Carolina Santos and Zambrano, Jean Carlos and Gomes, Cristiano Mendes and de Paula Miranda, Eduardo and de Carvalho J{\'u}nior, Osmar Ab{\'\i}lio and de Bessa J{\'u}nior, Jos{\'e}},
-  
   journal={Informatics in Medicine Unlocked},
-  
   pages={100538},
-  
   year={2021},
-  
   publisher={Elsevier}
 }
